@@ -1,12 +1,13 @@
 ## About me 🤚
 
- 👉  I`m middle full-stack PHP programmer 
+ 👉  I`m a middle full-stack PHP programmer 
 
- 👉  I`m working over 7 years
+ 👉  I have been working as a developer over 7 years
 
- 👉  I`m loving in experiments with code
+ 👉  I`m love experiments with code
 
- 👉  I wanna become senior 😎
+ 👉  I wanna become a senior 😎
+
 
  ## My stats 😕
 
