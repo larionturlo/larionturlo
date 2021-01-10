@@ -1,6 +1,6 @@
 ## About me 🤚
 
- 👉  I`m a middle full-stack PHP programmer 
+ 👉  I`m a senior full-stack PHP programmer 
 
  👉  I have been working as a developer over 7 years
 
